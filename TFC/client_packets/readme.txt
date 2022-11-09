@@ -1,0 +1,2 @@
+These packets are captured from the custom-game made in unity.
+They range from the necessary packets for authenticating with the server, to some funny re-produce player behavior packets (client_player_x).
