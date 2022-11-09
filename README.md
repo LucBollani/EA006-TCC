@@ -5,4 +5,4 @@ Este projeto compila os documentos necessários para a compreensão do projeto d
 
 Além deste repositório, o projeto também referencia o jogo desenvolvido e disponibilizado em: [Unity Networking Learning](https://github.com/LucBollani/unity_network_learning).
 
-![img](TFC/img1.png)
+![alt text](https://github.com/LucBollani/EA006-TCC/blob/main/TFC/img1.PNG)
